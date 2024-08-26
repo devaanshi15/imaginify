@@ -1,5 +1,5 @@
 import { Schema, model, models } from "mongoose";
-
+//credits into images
 const TransactionSchema = new Schema({
   createdAt: {
     type: Date,
